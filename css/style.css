@@ -96,8 +96,9 @@ figcaption {
   box-sizing: border-box;
 }
 
-header { 
+header {
   position: fixed;
+  width: 100%;
 }
 
 .wrapper {
